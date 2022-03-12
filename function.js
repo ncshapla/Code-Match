@@ -81,6 +81,7 @@ document.getElementById('submit').addEventListener('click', function(){
 
         showPin.value = '';
         pinPad.value = '';
+        alert(`Successful...Code Matched...!!! 😀`)
 
     }
 
